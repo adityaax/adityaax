@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 Security Researcher<br>🚀 Acknowledged by NASA, Cisco & 60+ companies.
+🧑‍💻 Security Researcher<br>🚀 Acknowledged by 60+ companies.
 
 
 # 💻 Tech Stack:
