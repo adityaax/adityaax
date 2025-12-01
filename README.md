@@ -1,5 +1,5 @@
 # About Me:
-🧑‍💻 Security Researcher<br>🚀 Acknowledged by 60+ companies.
+🧑‍💻 Security Researcher<br>🚀 Acknowledged by 70+ companies.
 
 # CVEs Assigned to Me
 1. CVE-2025-47272 - https://www.cve.org/CVERecord?id=CVE-2025-47272<br>
