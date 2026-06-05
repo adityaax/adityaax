@@ -1,7 +1,7 @@
 # About Me:
 🔍 Cybersecurity Researcher  
 🐞 Bug Bounty & Dark Web Intelligence  
-🏆 Acknowledged by 70+ Companies
+🏆 Acknowledged by 80+ Companies
 
 # CVEs Assigned to Me
 1. CVE-2025-47272 - https://www.cve.org/CVERecord?id=CVE-2025-47272<br>
