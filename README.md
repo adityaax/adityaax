@@ -1,5 +1,5 @@
 # About Me:
-🔍 Cybersecurity Researcher | Bug Bounty | Securing Web • Android • APIs • AI\
+🔍 Cybersecurity Researcher | Bug Bounty | Securing Web • Android • API • AI\
 🕸️ Dark Web Intelligence  
 🏆 Acknowledged by 80+ Companies
 
